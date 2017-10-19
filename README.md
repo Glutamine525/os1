@@ -7,7 +7,7 @@
   - [First Come First Served](#first-come-first-served)
   - [Shortest Job First](#shortest-job-first)
   - [Highest Response-ratio Next](#highest-response-ratio-next)
-- [Multiprogram(two-way)](#multiprogram(two-way))
+- [Multiprogram (two-way)](#multiprogram-two-way)
   - [First Come First Served](#first-come-first-served)
   - [Highest Priority Frequency](#highest-priority-frequency)
 
@@ -78,7 +78,7 @@ func main() {
 9:50 20
 ```
 
-## Multiprogram(two-way)
+## Multiprogram (two-way)
 
 ### First Come First Served
 #### Create file `demo.go`
