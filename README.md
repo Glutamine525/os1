@@ -32,7 +32,7 @@ func main() {
 	jcb.Calc("FCFS1", 4)
 }
 ```
-#### Input(entry time, run time)
+#### Input Example(entry time, run time)
 ```
 8:00 120
 8:50 50
@@ -51,7 +51,7 @@ func main() {
 	jcb.Calc("SJF1",4)
 }
 ```
-#### Input(entry time, run time)
+#### Input Example (entry time, run time)
 ```
 8:00 120
 8:50 50
@@ -70,7 +70,7 @@ func main() {
 	jcb.Calc("HRN",4)
 }
 ```
-#### Input(entry time, run time)
+#### Input Example (entry time, run time)
 ```
 8:00 120
 8:50 50
@@ -91,7 +91,7 @@ func main() {
 	jcb.Calc("FCFS2", 4)
 }
 ```
-#### Input(entry time, run time, occupied resource)
+#### Input Example (entry time, run time, occupied resource)
 ```
 8:00 120 30
 8:50 50 90
@@ -110,7 +110,7 @@ func main() {
 	jcb.Calc("HPF2", 4)
 }
 ```
-#### Input(entry time, run time, priority)
+#### Input Example (entry time, run time, priority)
 ```
 8:00 120 9
 8:50 50 7
