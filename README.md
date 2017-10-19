@@ -4,12 +4,12 @@
 
 - [Installing](#installing)
 - [Monoprogram](#monoprogram)
- - [First Come First Served](#first-come-first-served)
- - [Shortest Job First](#shortest-job-first)
- - [Highest Response-ratio Next](#highest-response-ratio-next)
-- [Multiprogram](#multiprogram)
- - [First Come First Served](#first-come-first-served)
- - [Highest Priority Frequency](#highest-priority-frequency)
+  - [First Come First Served](#first-come-first-served)
+  - [Shortest Job First](#shortest-job-first)
+  - [Highest Response-ratio Next](#highest-response-ratio-next)
+- [Multiprogram(two-way)](#multiprogram(two-way))
+  - [First Come First Served](#first-come-first-served)
+  - [Highest Priority Frequency](#highest-priority-frequency)
 
 ## Installing
 
@@ -78,9 +78,7 @@ func main() {
 9:50 20
 ```
 
-## Multiprogram
-
-    The following algorithms are all two-way.
+## Multiprogram(two-way)
 
 ### First Come First Served
 #### Create file `demo.go`
