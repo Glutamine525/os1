@@ -8,7 +8,7 @@
   - [Shortest Job First](#shortest-job-first)
   - [Highest Response-ratio Next](#highest-response-ratio-next)
 - [Multiprogram (two-way)](#multiprogram-two-way)
-  - [First Come First Served](#first-come-first-served)
+  - [First Come First Served](#first-come--first-served)
   - [Highest Priority Frequency](#highest-priority-frequency)
 
 ## Installing
@@ -80,7 +80,7 @@ func main() {
 
 ## Multiprogram (two-way)
 
-### First Come First Served
+### First Come  First Served
 #### Create file `demo.go`
 ```go
 package main
