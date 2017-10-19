@@ -1,4 +1,4 @@
-# OS Experiment One: Job Schedule
+# OS Experiment 1: Job Schedule
 
 ## Table of Contents
 
