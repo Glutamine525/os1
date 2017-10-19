@@ -1,5 +1,16 @@
 # OS Experiment One: Job Schedule
 
+## Table of Contents
+
+- [Installing](#installing)
+- [Monoprogram](#monoprogram)
+ - [First Come First Served](#first-come-first-served)
+ - [Shortest Job First](#shortest-job-first)
+ - [Highest Response-ratio Next](#highest-respronse-ratio-next)
+- [Multiprogram](#multiprogram)
+ - [First Come First Served](#first-come-first-served)
+ - [Highest Priority Frequency](#highest-priority-frequency)
+
 ## Installing
 
 To start using this project, install Go and run `go get`:
@@ -67,7 +78,7 @@ func main() {
 9:50 20
 ```
 
-## Multiprogramming(two-way)
+## Multiprogram(two-way)
 
 ### First Come First Served
 #### Create file `demo.go`
