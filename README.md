@@ -32,7 +32,7 @@ func main() {
 	jcb.Calc("FCFS1", 4)
 }
 ```
-#### Input Example(entry time, run time)
+#### Input Example (entry time, run time)
 ```
 8:00 120
 8:50 50
