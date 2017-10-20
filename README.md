@@ -9,7 +9,7 @@
   - [Highest Response-ratio Next](#highest-response-ratio-next)
 - [Multiprogram (two-way)](#multiprogram-two-way)
   - [First Come First Served](#first-come--first-served)
-  - [Highest Priority Frequency](#highest-priority-frequency)
+  - [Highest Priority First](#highest-priority-first)
 
 ## Installing
 
@@ -114,7 +114,7 @@ func main() {
 	4 09:50  20  60 10:00 10:30  40 2.00
 		T: 95.000min	W: 3.250
 
-### Highest Priority Frequency
+### Highest Priority First
 #### Create file `demo.go`
 ```go
 package main
